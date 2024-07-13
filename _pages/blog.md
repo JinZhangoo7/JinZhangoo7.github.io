@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /blog/
+published: false  # Add this line to hide the page
 title: blog
 nav: true
 nav_order: 1
