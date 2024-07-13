@@ -24,13 +24,6 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
-# Exclude files or directories from the build process
-# -----------------------------------------------------------------------------
-exclude:
-  - _pages/project.md
-  - _pages/dropdown.md
-
-# -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 
