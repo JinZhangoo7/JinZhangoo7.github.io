@@ -2,6 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
+published: false  # Add this line to hide the page
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
