@@ -21,47 +21,49 @@
       }
     ]
   },
+
   "education": [
-    {
-      "institution": "Emory University",
-      "location": "Atlanta, Georgia",
-      "url": "https://economics.emory.edu/",
-      "area": "Ph.D. in Economics",
-      "studyType": "Doctoral",
-      "startDate": "2022-08-05",
-      "endDate": "2027-06-30",
-      "score": "10",
-      "courses": [
-        "Market Structure, Household Finance, Monetary & Financial Economics, Computational Economics"
-      ]
-    },
-    {
-      "institution": "Peking University HSBC Business School(PHBS)",
-      "location": "Guangdong, China",
-      "url": "https://www.phbs.pku.edu.cn/",
-      "area": "Ph.D-level Economics and Master-level Finance",
-      "studyType": "M.A",
-      "startDate": "2019-08-27",
-      "endDate": "2022-07-01",
-      "score": "10",
-      "courses": [
-        "Numerical Methods, Theoretical Foundation of Banking, China Studies, Financial Economics"
-      ]
-    },
-    {
-      "institution": "University of Intl' Business and Economics(UIBE)",
-      "location": "Beijing, China",
-      "url": "https://english.uibe.edu.cn/",
-      "area": "Finance and English",
-      "studyType": "B.A.",
-      "startDate": "2015-09-03",
-      "endDate": "2019-07-01",
-      "score": "10",
-      "courses": [
-        "Financial Statement Analysis, Fixed Income, Equity, Derivatives Valuation Methods, Managerial Accounting"
-      ]
-    }
-  ],
+  {
+    "institution": "Emory University",
+    "location": "Atlanta, Georgia",
+    "url": "https://economics.emory.edu/",
+    "area": "Ph.D. in Economics",
+    "studyType": "Doctoral",
+    "startDate": "2022-08-05",
+    "endDate": "2027-06-30",
+    "score": "10",
+    "courses": [
+      "Market Structure, Household Finance, Monetary & Financial Economics, Computational Economics"
+    ]
+  },
+  {
+    "institution": "Peking University HSBC Business School(PHBS)",
+    "location": "Guangdong, China",
+    "url": "https://www.phbs.pku.edu.cn/",
+    "area": "Ph.D-level Economics and Master-level Finance",
+    "studyType": "M.A",
+    "startDate": "2019-08-27",
+    "endDate": "2022-07-01",
+    "score": "10",
+    "courses": [
+      "Numerical Methods, Theoretical Foundation of Banking, China Studies, Financial Economics"
+    ]
+  },
+  {
+    "institution": "University of Intl' Business and Economics(UIBE)",
+    "location": "Beijing, China",
+    "url": "https://english.uibe.edu.cn/",
+    "area": "Finance and English",
+    "studyType": "B.A.",
+    "startDate": "2015-09-03",
+    "endDate": "2019-07-01",
+    "score": "10",
+    "courses": [
+      "Financial Statement Analysis, Fixed Income, Equity, Derivatives Valuation Methods, Managerial Accounting"
+    ]
+  }
+],
+
   "skills": [
     {
       "name": "Economical Computational Software",
@@ -91,6 +93,7 @@
       ]
     }
   ],
+
   "interests": [
     {
       "name": "Economics",
@@ -113,6 +116,7 @@
       ]
     }
   ],
+
   "certificates": [
     {
       "name": "Tools for Macroeconomists (Advanced) Summer School",
@@ -122,6 +126,7 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
+  
   "languages": [
     {
       "language": "English",
@@ -144,7 +149,8 @@
       "icon": ""
     }
   ],
-  "awards": [
+  
+    "awards": [
     {
       "title": "Champion of PKU Singing Competition",
       "date": "2021-04-27",
@@ -152,7 +158,7 @@
       "url": "https://mp.weixin.qq.com/s/SkCc3YCG1grnJ0L9fho-eg",
       "summary": ";)"
     },
-    {
+      {
       "title": "Champion of PKU Swimming Competition",
       "date": "2020-11-09",
       "awarder": "Peking University Shenzhen Graduate School",
