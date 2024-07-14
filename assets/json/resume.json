@@ -57,6 +57,7 @@
       "courses": ["Financial Statement Analysis, Fixed Income, Equity, Derivatives Valuation Methods, Managerial Accounting"]
     }
   ],
+  
   "certificates": [
     {
       "name": "Tools for Macroeconomists (Advanced) Summer School",
@@ -66,6 +67,7 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
+  
   "skills": [
     {
       "name": "Econ Computational Softwares",
@@ -75,7 +77,7 @@
         "Matlab",
         "Python"
       ]
-    }
+    },
     {
       "name": "Empirical Softwares",
       "level": "Master",
@@ -84,7 +86,7 @@
         "Stata",
         "Python"
       ]
-    }
+    },
     {
       "name": "Hobbies",
       "level": "Master",
@@ -95,6 +97,7 @@
       ]
     }
   ],
+  
   "languages": [
     {
       "language": "English",
@@ -117,6 +120,7 @@
       "icon": ""
     }
   ],
+  
   "interests": [
     {
       "name": "Economics",
@@ -127,7 +131,7 @@
         "Banking",
         "Heterogeneous-agent model"
       ]
-    }
+    },
     {
       "name": "Music",
       "icon": "fa-solid fa-tag",
@@ -146,7 +150,7 @@
       "awarder": "Peking University Shenzhen Graduate School",
       "url": "https://mp.weixin.qq.com/s/SkCc3YCG1grnJ0L9fho-eg",
       "summary": ";)"
-    }
+    },
       {
       "title": "Champion of PKU Swimming Competition",
       "date": "2020-11-09",
@@ -154,5 +158,5 @@
       "url": "https://mp.weixin.qq.com/s/7MuQ0Eu370sqf-Gl2RISag",
       "summary": "Record keeper of Female 50 m Breastroke for 3+ years (though actually not competitive to professional players)"
     }
-  ],
+  ]
 }
