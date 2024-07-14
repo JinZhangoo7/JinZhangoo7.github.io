@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Jin Zhang",
-    <!--"label": "Scientist",-->
+    "label": "Economicst"
     "image": "",
     "email": "jin.zhang@emory.edu",
     "url": "https://jinzhangoo7.github.io/",
-    <!--"summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",-->
+    "summary": "An economist who is trying hard to live up to this title",
     "location": {
       "address": "1516 Clifton Road",
       "postalCode": "GA 30329",
