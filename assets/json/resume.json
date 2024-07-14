@@ -23,40 +23,47 @@
   },
 
   "education": [
-    {
-      "institution": "Emory University",
-      "location": "Atlanta, Georgia",
-      "url": "https://economics.emory.edu/",
-      "area": "Ph.D. in Economics",
-      "studyType": "PhD",
-      "startDate": "2022-08-05",
-      "endDate": "2027-06-30",
-      "score": "10",
-      "courses": ["Market Structure, Household Finance, Monetary & Financial Economics, Computational Economics"]
-    },
-    {
-      "institution": "Peking University HSBC Business School(PHBS)",
-      "location": "Guangdong, China",
-      "url": "https://www.phbs.pku.edu.cn/",
-      "area": "Ph.D-level Economics and Master-level Finance",
-      "studyType": "M.A",
-      "startDate": "2019-08-27",
-      "endDate": "2022-07-01",
-      "score": "10",
-      "courses": ["Numerical Methods, Theoretical Foundation of Banking, China Studies, Financial Economics"]
-    },
-    {
-      "institution": "University of Intl' Business and Economics",
-      "location": "Beijing, China",
-      "url": "https://english.uibe.edu.cn/",
-      "area": "Finance and Business English",
-      "studyType": "Undergrad",
-      "startDate": "2015-09-03",
-      "endDate": "2019-07-01",
-      "score": "10",
-      "courses": ["Financial Statement Analysis, Fixed Income, Equity, Derivatives Valuation Methods, Managerial Accounting"]
-    }
-  ],
+  {
+    "institution": "Emory University",
+    "location": "Atlanta, Georgia",
+    "url": "https://economics.emory.edu/",
+    "area": "Ph.D. in Economics",
+    "studyType": "PhD",
+    "startDate": "2022-08-05",
+    "endDate": "2027-06-30",
+    "score": "10",
+    "courses": [
+      "Market Structure, Household Finance, Monetary & Financial Economics, Computational Economics"
+    ]
+  },
+  {
+    "institution": "Peking University HSBC Business School(PHBS)",
+    "location": "Guangdong, China",
+    "url": "https://www.phbs.pku.edu.cn/",
+    "area": "Ph.D-level Economics and Master-level Finance",
+    "studyType": "M.A",
+    "startDate": "2019-08-27",
+    "endDate": "2022-07-01",
+    "score": "10",
+    "courses": [
+      "Numerical Methods, Theoretical Foundation of Banking, China Studies, Financial Economics"
+    ]
+  },
+  {
+    "institution": "University of Intl' Business and Economics",
+    "location": "Beijing, China",
+    "url": "https://english.uibe.edu.cn/",
+    "area": "Finance and Business English",
+    "studyType": "Undergrad",
+    "startDate": "2015-09-03",
+    "endDate": "2019-07-01",
+    "score": "10",
+    "courses": [
+      "Financial Statement Analysis, Fixed Income, Equity, Derivatives Valuation Methods, Managerial Accounting"
+    ]
+  }
+]
+
   
   "certificates": [
     {
