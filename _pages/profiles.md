@@ -1,6 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
+published: false  # Add this line to hide the page
 title: people
 description: members of the lab or group
 nav: true
