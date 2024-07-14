@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jin Zhang",
-    "label": "Economicst",
+    "label": "Economist",
     "image": "",
     "email": "jin.zhang@emory.edu",
     "url": "https://jinzhangoo7.github.io/",
@@ -28,7 +28,7 @@
     "location": "Atlanta, Georgia",
     "url": "https://economics.emory.edu/",
     "area": "Ph.D. in Economics",
-    "studyType": "PhD",
+    "studyType": "Doctoral",
     "startDate": "2022-08-05",
     "endDate": "2027-06-30",
     "score": "10",
@@ -50,11 +50,11 @@
     ]
   },
   {
-    "institution": "University of Intl' Business and Economics",
+    "institution": "University of Intl' Business and Economics(UIBE)",
     "location": "Beijing, China",
     "url": "https://english.uibe.edu.cn/",
-    "area": "Finance and Business English",
-    "studyType": "Undergrad",
+    "area": "Finance and English",
+    "studyType": "B.A.",
     "startDate": "2015-09-03",
     "endDate": "2019-07-01",
     "score": "10",
@@ -64,20 +64,9 @@
   }
 ]
 
-  
-  "certificates": [
-    {
-      "name": "Tools for Macroeconomists (Advanced) Summer School",
-      "date": "2023-08-04",
-      "issuer": "London School of Economic and Business",
-      "url": "https://emory-my.sharepoint.com/:b:/r/personal/jzha954_emory_edu/Documents/Jin%20Zhang.pdf?csf=1&web=1&e=63LJc5",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ],
-  
   "skills": [
     {
-      "name": "Econ Computational Softwares",
+      "name": "Economical Computational Software",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -90,8 +79,8 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Stata",
-        "Python"
+        "Python",
+        "Stata"
       ]
     },
     {
@@ -104,30 +93,7 @@
       ]
     }
   ],
-  
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Professional",
-      "icon": ""
-    },
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Basic",
-      "icon": ""
-    },
-    {
-      "language": "French",
-      "fluency": "Beginner",
-      "icon": ""
-    }
-  ],
-  
+
   "interests": [
     {
       "name": "Economics",
@@ -150,6 +116,40 @@
       ]
     }
   ],
+
+  "certificates": [
+    {
+      "name": "Tools for Macroeconomists (Advanced) Summer School",
+      "date": "2023-08-04",
+      "issuer": "London School of Economic and Business",
+      "url": "https://emory-my.sharepoint.com/:b:/r/personal/jzha954_emory_edu/Documents/Jin%20Zhang.pdf?csf=1&web=1&e=63LJc5",
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],
+  
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner",
+      "icon": ""
+    }
+  ],
+  
     "awards": [
     {
       "title": "Champion of PKU Singing Competition",
@@ -163,7 +163,7 @@
       "date": "2020-11-09",
       "awarder": "Peking University Shenzhen Graduate School",
       "url": "https://mp.weixin.qq.com/s/7MuQ0Eu370sqf-Gl2RISag",
-      "summary": "Record keeper of Female 50 m Breastroke for 3+ years (though actually not competitive to professional players)"
+      "summary": "Record keeper of Female 50 m Breastroke for 2+ years (though not competitive to professional players)"
     }
   ]
 }
