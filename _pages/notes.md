@@ -2,7 +2,7 @@
 layout: page
 title: Notes
 permalink: /notes/
-description: The slides I made.
+description: The slides I made after reading those papers. If you have any questions or find any typos, please email me!
 nav: true
 nav_order: 3
 display_categories: [work, fun]
