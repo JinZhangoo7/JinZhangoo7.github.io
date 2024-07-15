@@ -4,7 +4,7 @@ title: submenus
 published: false  # Add this line to hide the page
 nav: true
 nav_order: 8
-dropdown: true
+dropdown: false
 children:
   - title: publications
     permalink: /publications/
