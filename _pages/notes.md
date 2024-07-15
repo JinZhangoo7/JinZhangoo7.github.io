@@ -10,7 +10,7 @@ horizontal: false
 ---
 - **Dynare Study**: [Simulating RBC model by using Dynare](https://emory-my.sharepoint.com/:b:/r/personal/jzha954_emory_edu/Documents/Personal%20Website/Dynare_Study.pdf?csf=1&web=1&e=SczLQJ)
 
-- **Heterogeneous Agent Model**: [Aiyagari (1994) and Maliar et al. (2010)](https://emory-my.sharepoint.com/:b:/r/personal/jzha954_emory_edu/Documents/Personal%20Website/Aiyagari(1994)%26K-S(2010).pdf?csf=1&web=1&e=0PF3Mz) and [Khan and Thomas (2008)](https://emory-my.sharepoint.com/:b:/r/personal/jzha954_emory_edu/Documents/Personal%20Website/Khan%20and%20Thomas(2008).pdf?csf=1&web=1&e=hqQOms)
+- **Heterogeneous Agent Model**: [Aiyagari (1994) and Maliar et al. (2010)](https://emory-my.sharepoint.com/:b:/r/personal/jzha954_emory_edu/Documents/Personal%20Website/Aiyagari(1994)%26K-S(2010).pdf?csf=1&web=1&e=0PF3Mz) and [Khan and Thomas (2008)](https://emory-my.sharepoint.com/:b:/r/personal/jzha954_emory_edu/Documents/Personal%20Website/Khan%20and%20Thomas%20(2008).pdf?csf=1&web=1&e=iJY5gA)
 
 - **Financial Accelerator, Business Cycle and Monetary Policy**: [BGG](https://emory-my.sharepoint.com/:b:/r/personal/jzha954_emory_edu/Documents/Personal%20Website/BGG.pdf?csf=1&web=1&e=MKbQ5O)
 
