@@ -16,6 +16,8 @@ horizontal: false
 
 - **Credit Constraint and Self-Fulfilling Business Cycle**: [Liu and Wang (2014)](https://www.dropbox.com/scl/fi/7wesm43xpek5602bozu0g/Liu-and-Wang-2014.pdf?rlkey=uxxgigry1w2d18w7iiknn32m1&dl=0)
 
+- **Speculative Bubble**:[Harrison and Kreps (1978)](https://www.dropbox.com/scl/fi/evxf7apswe6xjoonhbcd1/Harrison-and-Kreps-1978.pdf?rlkey=hvpgrks13ocbki1r34zbheam7&dl=0)
+
 - **Monetary Policy and Financial Crisis**: [Brunnermeier et al. (2021)](https://www.dropbox.com/scl/fi/yx6mb0yyku62xxs810odr/Brunnermeier-et-al.-2021.pdf?rlkey=3034wib26z2e2qo4x2i8d99gt&dl=0)
 
 - **Monetary Policy Pass-through and Household Finance**: [Di Maggio et al. (2017)](https://www.dropbox.com/scl/fi/brcjlw6lg3mwfx434ic9s/Di-Maggio-et-al.-2017.pdf?rlkey=3b590zokp617n36r63rbyq9lb&dl=0) and [Jorda et al. (2019)](https://www.dropbox.com/scl/fi/wq5en69y40lkr01icpgp1/Jorda-et-al.-2019.pdf?rlkey=b8m66f1tj7ibexx36961oaf8f&dl=0)
