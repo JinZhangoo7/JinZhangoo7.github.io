@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> R430, </p>
-    <p> 1516 Clifton Rd NE </p>
+    <p> R430D, </p>
+    <p> 1602 Fishburne Dr </p>
     <p> Atlanta, GA, 30322 </p>
     <p> jin.zhang@emory.edu </p>
 
