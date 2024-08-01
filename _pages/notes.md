@@ -2,7 +2,7 @@
 layout: page
 title: Notes
 permalink: /notes/
-description: The slides I made after reading those papers. If you have any questions or find any typos, please email me!
+description: The slide/notes I made after reading those papers. If you have any questions or find any typos, please email me!
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -17,6 +17,8 @@ horizontal: false
 - **Credit Constraint and Self-Fulfilling Business Cycle**: [Liu and Wang (2014)](https://www.dropbox.com/scl/fi/7wesm43xpek5602bozu0g/Liu-and-Wang-2014.pdf?rlkey=uxxgigry1w2d18w7iiknn32m1&dl=0)
 
 - **Speculative Bubble**: [Harrison and Kreps (1978)](https://www.dropbox.com/scl/fi/evxf7apswe6xjoonhbcd1/Harrison-and-Kreps-1978.pdf?rlkey=hvpgrks13ocbki1r34zbheam7&dl=0)
+
+- **A Housing Demand Theory**: [Liu, Wang, Zha (2021, WP)](https://www.dropbox.com/scl/fi/kvbzdoqbxig86ussttiak/Liu-Wang-and-Zha-2021.pdf?rlkey=i9viji0qqgfdrtrwn5lq2hj2g&dl=0). The published version can be seen [here](https://www.sciencedirect.com/science/article/pii/S0022053122000746).
 
 - **Monetary Policy and Financial Crisis**: [Brunnermeier et al. (2021)](https://www.dropbox.com/scl/fi/yx6mb0yyku62xxs810odr/Brunnermeier-et-al.-2021.pdf?rlkey=3034wib26z2e2qo4x2i8d99gt&dl=0)
 
