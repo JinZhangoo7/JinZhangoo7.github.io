@@ -20,6 +20,8 @@ horizontal: false
 
 - **A Housing Demand Theory**: [Liu, Wang, Zha (2021, WP)](https://www.dropbox.com/scl/fi/kvbzdoqbxig86ussttiak/Liu-Wang-and-Zha-2021.pdf?rlkey=i9viji0qqgfdrtrwn5lq2hj2g&dl=0). The published version can be seen [here](https://www.sciencedirect.com/science/article/pii/S0022053122000746).
 
+- **Monetary Policy and Redistribution Channel**: [Auclert (2019)](https://www.dropbox.com/scl/fi/mvmdhkyae1m3ho088r5jm/Auclert-2019.pdf?rlkey=wr6fvozbq5uquydgy8rcpt8ph&dl=0).
+
 - **Monetary Policy and Financial Crisis**: [Brunnermeier et al. (2021)](https://www.dropbox.com/scl/fi/yx6mb0yyku62xxs810odr/Brunnermeier-et-al.-2021.pdf?rlkey=3034wib26z2e2qo4x2i8d99gt&dl=0)
 
 - **Monetary Policy Pass-through and Household Finance**: [Di Maggio et al. (2017)](https://www.dropbox.com/scl/fi/brcjlw6lg3mwfx434ic9s/Di-Maggio-et-al.-2017.pdf?rlkey=3b590zokp617n36r63rbyq9lb&dl=0) and [Jorda et al. (2019)](https://www.dropbox.com/scl/fi/wq5en69y40lkr01icpgp1/Jorda-et-al.-2019.pdf?rlkey=b8m66f1tj7ibexx36961oaf8f&dl=0)
