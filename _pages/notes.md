@@ -20,6 +20,7 @@ horizontal: false
   - Financial Accelerator: [BGG (1999)](https://www.dropbox.com/scl/fi/wh4nqwb4203fxrgy118wf/BGG.pdf?rlkey=tnkzu42qmzd06aeqwjcht0gve&dl=0)
   - Credit Constraint and Self-Fulfilling Business Cycle: [Liu and Wang (2014)](https://www.dropbox.com/scl/fi/7wesm43xpek5602bozu0g/Liu-and-Wang-2014.pdf?rlkey=uxxgigry1w2d18w7iiknn32m1&dl=0)
   - Endogenous Leverage and Advantageous Selection: [Nenov (2017)](https://www.dropbox.com/scl/fi/mjtr9h9odndris7mjw111/Nenov-2017.pdf?rlkey=fdpzatee5oio2xreymf1u5si1&dl=0)
+  - Moral Hazard and Borrowing Constraint: [Course Note of Theoretical Foundation of Banking](https://www.dropbox.com/scl/fi/5urxkkvq8rourbm3qu6i9/1_MM-theorem-and-borrowing-constraint.pdf?rlkey=jbcmdt7kf7l7uofso4deqqcit&dl=0)
 
 - **Monetary Policy**:
   - MP Redistributional Channel: [Auclert (2019)](https://www.dropbox.com/scl/fi/mvmdhkyae1m3ho088r5jm/Auclert-2019.pdf?rlkey=wr6fvozbq5uquydgy8rcpt8ph&dl=0).
