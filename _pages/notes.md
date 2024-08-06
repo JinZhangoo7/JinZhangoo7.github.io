@@ -23,6 +23,7 @@ horizontal: false
  
 - **Theoretical Bank Models**
   -  Bank Run: [Diamond and Dybvig (1983)](https://www.dropbox.com/scl/fi/2onisbrq6n8z63f4rqdwv/Diamond-Dyvbig-1983.pdf?rlkey=en2hr1f73h4xwobegx14o2k81&dl=0)
+  -  Information Disclosure and Bank Bailout by Government: [Castro and Martinez (2017)](https://www.dropbox.com/scl/fi/srdn8crzr4r1gkork04bn/Castro-and-Martinez-2017.pdf?rlkey=tqt8ygzx7fwathgamw4mk50ed&dl=0)
 
 - **Monetary Policy**:
   - Monetary Policy Redistributional Channel on Household: [Auclert (2019)](https://www.dropbox.com/scl/fi/mvmdhkyae1m3ho088r5jm/Auclert-2019.pdf?rlkey=wr6fvozbq5uquydgy8rcpt8ph&dl=0).
