@@ -35,7 +35,7 @@ horizontal: false
  
 - **Asset Bubble**
   - Speculative Bubble Induced by Heterogeneous Belief: [Harrison and Kreps (1978)](https://www.dropbox.com/scl/fi/evxf7apswe6xjoonhbcd1/Harrison-and-Kreps-1978.pdf?rlkey=hvpgrks13ocbki1r34zbheam7&dl=0)
-  - Asset Bubble with Credit Constraint: [Miao and Wang (2018)](https://www.dropbox.com/scl/fi/frfiat05ppcze5wnd706l/Miao-and-Wang-2018.pdf?rlkey=35yb0mvdc99t3n9nzuqh2mog1&dl=)
+  - Asset Bubble with Credit Constraint: [Miao and Wang (2018)](https://www.dropbox.com/scl/fi/frfiat05ppcze5wnd706l/Miao-and-Wang-2018.pdf?rlkey=35yb0mvdc99t3n9nzuqh2mog1&dl)
 
 - **Pecuniary Externalities**: [Konerik (2018)](https://www.dropbox.com/scl/fi/t8ybqsbs3cdl4nikh7q5c/Konerik-2018.pdf?rlkey=lzm82dl19t7qs4q6ioh588ar5&dl=0)
 
