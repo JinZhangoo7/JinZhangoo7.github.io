@@ -33,7 +33,9 @@ horizontal: false
   - Monetary Policy Pass-through: [Di Maggio et al. (2017)](https://www.dropbox.com/scl/fi/brcjlw6lg3mwfx434ic9s/Di-Maggio-et-al.-2017.pdf?rlkey=3b590zokp617n36r63rbyq9lb&dl=0)
   - The Rate of Return: [Jorda et al. (2019)](https://www.dropbox.com/scl/fi/wq5en69y40lkr01icpgp1/Jorda-et-al.-2019.pdf?rlkey=b8m66f1tj7ibexx36961oaf8f&dl=0)
  
-- **Speculative Bubble Induced by Heterogeneous Belief**: [Harrison and Kreps (1978)](https://www.dropbox.com/scl/fi/evxf7apswe6xjoonhbcd1/Harrison-and-Kreps-1978.pdf?rlkey=hvpgrks13ocbki1r34zbheam7&dl=0)
+- **Asset Bubble**
+  - Speculative Bubble Induced by Heterogeneous Belief: [Harrison and Kreps (1978)](https://www.dropbox.com/scl/fi/evxf7apswe6xjoonhbcd1/Harrison-and-Kreps-1978.pdf?rlkey=hvpgrks13ocbki1r34zbheam7&dl=0)
+  - Asset Bubble with Credit Constraint: [Miao and Wang (2018)](https://www.dropbox.com/scl/fi/frfiat05ppcze5wnd706l/Miao-and-Wang-2018.pdf?rlkey=35yb0mvdc99t3n9nzuqh2mog1&dl=)
 
 - **Pecuniary Externalities**: [Konerik (2018)](https://www.dropbox.com/scl/fi/t8ybqsbs3cdl4nikh7q5c/Konerik-2018.pdf?rlkey=lzm82dl19t7qs4q6ioh588ar5&dl=0)
 
