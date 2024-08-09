@@ -11,7 +11,7 @@ horizontal: false
 - **A Dynare Study Note**: [Simulating RBC model by using Dynare](https://www.dropbox.com/scl/fi/kjjan3dqmbuzrpai3jkif/Dynare_tutorial.pdf?rlkey=om9svq98h74vp0z11wicescxo&dl=0) with [example codes](https://www.dropbox.com/scl/fo/22mmqve9rvvt3hmoe0l7g/AFp0wakYKnbQWXhJMN8roaM?rlkey=9f47o00pgdh3tbmtest5cb3zh&dl=0)
 
 - **Heterogeneous Agent Model**:
-  - Household with idiosyncratic risk and aggregate risk: [Aiyagari (1994) and Maliar et al. (2010)](https://www.dropbox.com/scl/fi/aqhu0d5492l4sx4vmad97/Aiyagari-1994-K-S-2010.pdf?rlkey=xk8jpgra71brqeip3ho1cahhx&dl=0)
+  - Household with idiosyncratic risk and aggregate risk: [Aiyagari (1994) and Maliar et al. (2010)](https://www.dropbox.com/scl/fi/aqhu0d5492l4sx4vmad97/Aiyagari-1994-K-S-2010.pdf?rlkey=xk8jpgra71brqeip3ho1cahhx&dl=0) with [example codes](https://www.dropbox.com/scl/fo/xl1zvj17prse0ubhzgzyy/AHl_6aSLQWdOoRi3CPlG8XQ?rlkey=e127c9hg0ic3d5y56bfko1n2f&dl=0)
   - Firm with idiosyncratic risk: [Khan and Thomas (2008)](https://www.dropbox.com/scl/fi/uzm7k3vpxmolldaapov1t/Khan-and-Thomas-2008.pdf?rlkey=4kl6x56osn5cbo9xe4dpu54c3&dl=0) with [example codes](https://www.dropbox.com/scl/fo/xl1zvj17prse0ubhzgzyy/AHl_6aSLQWdOoRi3CPlG8XQ?rlkey=e127c9hg0ic3d5y56bfko1n2f&dl=0)
   - A Housing Demand Theory: [Liu, Wang, Zha (2021, WP)](https://www.dropbox.com/scl/fi/kvbzdoqbxig86ussttiak/Liu-Wang-and-Zha-2021.pdf?rlkey=i9viji0qqgfdrtrwn5lq2hj2g&dl=0). The published version can be seen [here](https://www.sciencedirect.com/science/article/pii/S0022053122000746).
 
