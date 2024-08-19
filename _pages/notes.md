@@ -20,6 +20,7 @@ horizontal: false
   - Credit Constraint and Self-Fulfilling Business Cycle: [Liu and Wang (2014)](https://www.dropbox.com/scl/fi/7wesm43xpek5602bozu0g/Liu-and-Wang-2014.pdf?rlkey=uxxgigry1w2d18w7iiknn32m1&dl=0)
   - Endogenous Leverage and Advantageous Selection: [Nenov (2017)](https://www.dropbox.com/scl/fi/mjtr9h9odndris7mjw111/Nenov-2017.pdf?rlkey=fdpzatee5oio2xreymf1u5si1&dl=0)
   - [A Note of Moral Hazard and Borrowing Constraint](https://www.dropbox.com/scl/fi/5urxkkvq8rourbm3qu6i9/1_MM-theorem-and-borrowing-constraint.pdf?rlkey=jbcmdt7kf7l7uofso4deqqcit&dl=0)
+  - Macroeconomic Effects of Financial Shocks: [Jermann and Quadrini (2012)](https://www.dropbox.com/scl/fi/hdqj7u1galng5sczx3qch/Jermann-and-Quadrini-2012.pdf?rlkey=ckv7t56l9ts85ylrc1ysqqc7n&dl=0) with my [codes](https://www.dropbox.com/scl/fi/ay121yyzx30hriixvmlge/JermannQuadrini.mod?rlkey=u582ida35ojzmxx6zq7adhix1&dl=0).
  
 - **Theoretical Bank Models**
   -  Bank Run: [Diamond and Dybvig (1983)](https://www.dropbox.com/scl/fi/2onisbrq6n8z63f4rqdwv/Diamond-Dyvbig-1983.pdf?rlkey=en2hr1f73h4xwobegx14o2k81&dl=0)
