@@ -8,7 +8,7 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
-- **A Dynare Study Note**: [Simulating RBC model by using Dynare](https://www.dropbox.com/scl/fi/kjjan3dqmbuzrpai3jkif/Dynare_tutorial.pdf?rlkey=om9svq98h74vp0z11wicescxo&dl=0) with [example codes](https://www.dropbox.com/scl/fo/22mmqve9rvvt3hmoe0l7g/AFp0wakYKnbQWXhJMN8roaM?rlkey=9f47o00pgdh3tbmtest5cb3zh&dl=0)
+- **A Dynare Study Note**: [Simulating RBC model by using Dynare](https://www.dropbox.com/scl/fi/o8coepjwatseuppdewc5j/Dynare_tutorial.pdf?rlkey=aebwy0je7m2f1ije7bmy9ayfm&dl=0) with [example codes](https://www.dropbox.com/scl/fo/22mmqve9rvvt3hmoe0l7g/AFp0wakYKnbQWXhJMN8roaM?rlkey=9f47o00pgdh3tbmtest5cb3zh&dl=0)
 
 - **Heterogeneous Agent Model**:
   - Household with idiosyncratic risk and aggregate risk: [Aiyagari (1994) and Maliar et al. (2010)](https://www.dropbox.com/scl/fi/aqhu0d5492l4sx4vmad97/Aiyagari-1994-K-S-2010.pdf?rlkey=xk8jpgra71brqeip3ho1cahhx&dl=0) with [example codes](https://www.dropbox.com/scl/fo/xl1zvj17prse0ubhzgzyy/AHl_6aSLQWdOoRi3CPlG8XQ?rlkey=e127c9hg0ic3d5y56bfko1n2f&dl=0)
