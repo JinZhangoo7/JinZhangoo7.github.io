@@ -8,6 +8,10 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+<p style="font-size:10px;"> “If we knew what it was we were doing, it would not be called research, would it?” — Albert Einstein </p>
+
+
 - **A Dynare Study Note**: [Simulating RBC model by using Dynare](https://www.dropbox.com/scl/fi/o8coepjwatseuppdewc5j/Dynare_tutorial.pdf?rlkey=aebwy0je7m2f1ije7bmy9ayfm&dl=0) with [example codes](https://www.dropbox.com/scl/fo/22mmqve9rvvt3hmoe0l7g/AFp0wakYKnbQWXhJMN8roaM?rlkey=9f47o00pgdh3tbmtest5cb3zh&dl=0)
 
 - **Heterogeneous Agent Model**:
