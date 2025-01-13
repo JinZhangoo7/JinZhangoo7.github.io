@@ -38,7 +38,7 @@ horizontal: false
  
 - **Asset Bubble**
   - Speculative Bubble Induced by Heterogeneous Belief: [Harrison and Kreps (1978)](https://www.dropbox.com/scl/fi/evxf7apswe6xjoonhbcd1/Harrison-and-Kreps-1978.pdf?rlkey=hvpgrks13ocbki1r34zbheam7&dl=0)
-  - Asset Bubble with Credit Constraint: [Miao and Wang (2018)](https://www.dropbox.com/scl/f/frfiat05ppcze5wnd706l/Miao-and-Wang-2018.pdf?rlkey=35yb0mvdc99t3n9nzuqh2mog1&dl=0)
+  - Asset Bubble with Credit Constraint: [Miao and Wang (2018)](https://www.dropbox.com/scl/fi/frfiat05ppcze5wnd706l/Miao-and-Wang-2018.pdf?rlkey=35yb0mvdc99t3n9nzuqh2mog1&dl=0)
  
 - **Household Finance**
   - Monetary Policy Pass-through: [Di Maggio et al. (2017)](https://www.dropbox.com/scl/fi/brcjlw6lg3mwfx434ic9s/Di-Maggio-et-al.-2017.pdf?rlkey=3b590zokp617n36r63rbyq9lb&dl=0)
